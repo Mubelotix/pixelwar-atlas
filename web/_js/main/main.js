@@ -111,7 +111,7 @@ async function init() {
 		updateAdditionalLayer(additionalLayers)
 	}
 
-	if (mode === "about") window.location.replace("./about.html")
+	if (mode === "about") window.location.replace("https://github.com/Mubelotix/pixelwar-atlas")
 
 	// For Reviewing Reddit Changes
 	// const atlasRef = '../tools/temp-atlas.json'

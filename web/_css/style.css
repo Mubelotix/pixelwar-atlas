@@ -461,14 +461,4 @@ body:not([data-dev]) .show-only-on-dev {
 	transform: rotateY(180deg);
 }
 
-/* about.html */
-
-#entry-contributors-wrapper a {
-	text-decoration: none;
-}
-
-#entry-contributors-wrapper a:hover {
-	text-decoration: underline;
-}
-
 /* purgecss end ignore */
