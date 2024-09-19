@@ -2,7 +2,7 @@
 
 This project is open-source, and contributions are welcome. In fact, the Atlas relies on user contributions.
 
-You may contribute to the project by submitting a Pull Request on the GitHub repo or sending your submissions through [Reddit](https://www.reddit.com/r/placeAtlas2023). Other than that, you can get help from [Discord](https://discord.gg/pJkm23b2nA) or [Reddit](https://www.reddit.com/r/placeAtlas2023).
+You may contribute to the project by submitting a Pull Request on the GitHub repo or sending your submissions through [Reddit](https://www.reddit.com/r/placeAtlas2023). Other than that, you can get help from [Discord](https://discord.gg/TpdbUyfcbJ) or [Reddit](https://www.reddit.com/r/placeAtlas2023).
 
 ## New Atlas entries
 
@@ -97,7 +97,7 @@ Hereforth is an example of the structured entry data. The example has been expan
 	"description": "This is an entry, it is remarkable.",
 	"links": {
 		"subreddit": ["placeAtlas2023", "subreddit1", "subreddit2"],
-		"discord": ["pJkm23b2nA"],
+		"discord": ["TpdbUyfcbJ"],
 		"website": ["https://example.com"],
 		"wiki": ["An_Entry", "An_Entry_2"]
 	},

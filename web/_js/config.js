@@ -96,7 +96,7 @@ const externalLinksConfig = [
 		editorPrefix: "discord.gg/",
 		placeholder: "r/example",
 		configureInputField: (inputField) => {
-			inputField.placeholder = "pJkm23b2nA"
+			inputField.placeholder = "TpdbUyfcbJ"
 		},
 		extractId: (content) => {
 			const discordPattern = /^(?:(?:https?:\/\/)?(?:www\.)?(?:(?:discord)?\.?gg|discord(?:app)?\.com\/invite)\/)?([^\s/]+?)(?=\b)$/
@@ -114,7 +114,7 @@ const externalLinksConfig = [
 		listingClass: "bi-reddit",
 		generateListingName: (link) => "r/" + link,
 		editorPrefix: "reddit.com/",
-		placeholder: "pJkm23b2nA",
+		placeholder: "TpdbUyfcbJ",
 		configureInputField: (inputField) => {
 			inputField.placeholder = "r/example"
 			inputField.pattern = "^r\/[A-Za-z0-9][A-Za-z0-9_]{1,50}$"
