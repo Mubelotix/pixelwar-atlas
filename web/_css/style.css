@@ -266,6 +266,7 @@ body[data-init-done] .listTransitioning #innerContainer {
 }
 
 #variantControls {
+	display: none;
 	flex: 2 0 auto;
 }
 
