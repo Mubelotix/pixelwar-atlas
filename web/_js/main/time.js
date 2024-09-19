@@ -121,8 +121,8 @@ async function updateBackground(newPeriod = currentPeriod, newVariation = curren
 			const imageLayer = new Image()
 			await new Promise(resolve => {
 				imageLayer.onload = () => {
-					context.canvas.width = Math.max(imageLayer.width, context.canvas.width)
-					context.canvas.height = Math.max(imageLayer.height, context.canvas.height)
+					context.canvas.width = imageLayer.width
+					context.canvas.height = imageLayer.height
 					layers[i] = imageLayer
 					resolve()
 				}
