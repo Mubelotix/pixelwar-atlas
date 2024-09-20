@@ -1542,5 +1542,85 @@
     			58
     		]
     	}
+    },
+    {
+    	"id": 24,
+    	"name": "Heisenberg Anonymous",
+    	"description": "Dessin d'Heisenberg de Breaking bad pour les CFI, il fut revêtu d'un masque de Guy Fawkes par les ITI, symbole d'Anonymous. \n\nAnonymous est un collectif international de hackers et d'activistes en ligne, souvent associés à des actions de protestation contre la censure, les abus de pouvoir et la violation des libertés individuelles. Le groupe est célèbre pour son fonctionnement décentralisé et anonyme : il n’a pas de leader officiel et ses membres se regroupent autour de causes communes, particulièrement liées à la justice sociale et la liberté d'expression sur Internet.\n\nLe masque de Guy Fawkes est devenu le symbole visuel d'Anonymous. Ce masque représente le visage stylisé d'un homme avec un sourire malicieux, une moustache et une barbiche. Il est inspiré de Guy Fawkes, un révolutionnaire anglais qui a tenté de faire exploser le Parlement britannique en 1605 lors de la \"Conspiration des Poudres\". Bien que Fawkes n'ait pas réussi dans son attentat, son nom est devenu associé à la lutte contre les oppressions gouvernementales.\n\nLe masque a gagné en popularité grâce au film V for Vendetta (adapté de la bande dessinée d'Alan Moore), où le personnage principal, \"V\", porte ce masque pour mener une révolution contre un gouvernement totalitaire. À partir de ce moment, le masque a été adopté par Anonymous pour symboliser la résistance à l'injustice, la défiance envers l'autorité et la protection de l’anonymat. Il est souvent porté lors de manifestations ou actions collectives, à la fois dans le monde réel et en ligne.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				125,
+    				57
+    			],
+    			[
+    				140,
+    				57
+    			],
+    			[
+    				142,
+    				59
+    			],
+    			[
+    				142,
+    				66
+    			],
+    			[
+    				149,
+    				66
+    			],
+    			[
+    				147,
+    				68
+    			],
+    			[
+    				142,
+    				68
+    			],
+    			[
+    				142,
+    				79
+    			],
+    			[
+    				135,
+    				87
+    			],
+    			[
+    				130,
+    				87
+    			],
+    			[
+    				123,
+    				79
+    			],
+    			[
+    				123,
+    				68
+    			],
+    			[
+    				119,
+    				68
+    			],
+    			[
+    				117,
+    				66
+    			],
+    			[
+    				123,
+    				66
+    			],
+    			[
+    				123,
+    				59
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			133,
+    			75
+    		]
+    	}
     }
 ]
