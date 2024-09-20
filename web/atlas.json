@@ -5146,5 +5146,45 @@
     			137
     		]
     	}
+    },
+    {
+    	"id": 66,
+    	"name": "Bâtiment",
+    	"description": "Créé dans l'urgence après une attaque générale des Rouennais, qui tentaient d'inscrire \"Rouen\" à la place du Catène de Containers",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				0,
+    				215
+    			],
+    			[
+    				16,
+    				215
+    			],
+    			[
+    				16,
+    				208
+    			],
+    			[
+    				31,
+    				208
+    			],
+    			[
+    				31,
+    				249
+    			],
+    			[
+    				0,
+    				249
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			16,
+    			231
+    		]
+    	}
     }
 ]
