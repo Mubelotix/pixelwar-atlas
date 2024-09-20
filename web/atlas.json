@@ -50,5 +50,89 @@
     			21
     		]
     	}
+    },
+    {
+    	"id": -1,
+    	"name": "Canard en plastique",
+    	"description": "La méthode du canard en plastique, appelée également méthode du canard en caoutchouc, est une pratique de revue du code source utilisée en génie logiciel dans les phases de débogage.",
+    	"links": {
+    		"website": [
+    			"https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique"
+    		]
+    	},
+    	"path": {
+    		"0": [
+    			[
+    				28,
+    				0
+    			],
+    			[
+    				24,
+    				4
+    			],
+    			[
+    				24,
+    				7
+    			],
+    			[
+    				21,
+    				8
+    			],
+    			[
+    				23,
+    				11
+    			],
+    			[
+    				26,
+    				11
+    			],
+    			[
+    				26,
+    				14
+    			],
+    			[
+    				30,
+    				18
+    			],
+    			[
+    				40,
+    				18
+    			],
+    			[
+    				46,
+    				15
+    			],
+    			[
+    				49,
+    				10
+    			],
+    			[
+    				50,
+    				5
+    			],
+    			[
+    				47,
+    				5
+    			],
+    			[
+    				37,
+    				7
+    			],
+    			[
+    				35,
+    				2
+    			],
+    			[
+    				33,
+    				0
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			33,
+    			12
+    		]
+    	}
     }
 ]
