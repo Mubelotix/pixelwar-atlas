@@ -5910,5 +5910,57 @@
     			138
     		]
     	}
+    },
+    {
+    	"id": 75,
+    	"name": "Vestiges d'une clef à molette",
+    	"description": "Détruite lors de la guerre d'annihilation entre les EP et les MECA",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				218,
+    				121
+    			],
+    			[
+    				226,
+    				129
+    			],
+    			[
+    				226,
+    				133
+    			],
+    			[
+    				234,
+    				126
+    			],
+    			[
+    				229,
+    				126
+    			],
+    			[
+    				221,
+    				118
+    			],
+    			[
+    				218,
+    				117
+    			],
+    			[
+    				217,
+    				118
+    			],
+    			[
+    				217,
+    				119
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			228,
+    			128
+    		]
+    	}
     }
 ]
