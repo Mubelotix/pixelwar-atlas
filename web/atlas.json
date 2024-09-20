@@ -6270,5 +6270,37 @@
     			222
     		]
     	}
+    },
+	{
+    	"id": 80,
+    	"name": "Seule création restante des MECA",
+    	"description": "Mais ils ont été aidés par l'admin, sur le canvas final non-edité il y avait écrit \"CACA\" ",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				216,
+    				86
+    			],
+    			[
+    				216,
+    				90
+    			],
+    			[
+    				233,
+    				90
+    			],
+    			[
+    				233,
+    				86
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			225,
+    			88
+    		]
+    	}
     }
 ]
