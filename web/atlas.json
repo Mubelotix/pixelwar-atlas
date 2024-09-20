@@ -3926,5 +3926,101 @@
     			157
     		]
     	}
+    },
+    {
+    	"id": 50,
+    	"name": "Chat-bus",
+    	"description": "Le Chat-bus (ou Neko-Bus en japonais) est un personnage magique et mémorable du film Mon voisin Totoro (My Neighbor Totoro). C'est un grand chat qui ressemble à un chat traditionnel, mais avec des caractéristiques fantastiques : il a une grande taille, un sourire large et des yeux expressifs. Son pelage est rayé et il possède une apparence à la fois mystérieuse et amicale.\n\nLe Chat-bus peut se déplacer à une vitesse incroyable, apparaissant et disparaissant à volonté, et il peut même conduire des personnages à travers les forêts et les chemins. Il a la capacité de se camoufler dans l'environnement, ce qui lui permet de surprendre ceux qui ne s'y attendent pas.\n\nDans le film, il aide Satsuki et Mei dans leurs aventures et symbolise le lien entre le monde réel et le monde magique des esprits de la nature. Le Chat-bus incarne la joie et la magie de l'enfance, rendant les rencontres fantastiques encore plus mémorables. Sa présence contribue à l'atmosphère enchanteuse du film, en ajoutant une touche d'humour et de mystère.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				172,
+    				86
+    			],
+    			[
+    				171,
+    				87
+    			],
+    			[
+    				170,
+    				87
+    			],
+    			[
+    				166,
+    				83
+    			],
+    			[
+    				165,
+    				84
+    			],
+    			[
+    				165,
+    				88
+    			],
+    			[
+    				167,
+    				91
+    			],
+    			[
+    				164,
+    				96
+    			],
+    			[
+    				166,
+    				100
+    			],
+    			[
+    				171,
+    				103
+    			],
+    			[
+    				179,
+    				103
+    			],
+    			[
+    				184,
+    				100
+    			],
+    			[
+    				186,
+    				97
+    			],
+    			[
+    				183,
+    				91
+    			],
+    			[
+    				185,
+    				88
+    			],
+    			[
+    				185,
+    				84
+    			],
+    			[
+    				184,
+    				83
+    			],
+    			[
+    				180,
+    				87
+    			],
+    			[
+    				179,
+    				87
+    			],
+    			[
+    				178,
+    				86
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			175,
+    			95
+    		]
+    	}
     }
 ]
