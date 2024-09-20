@@ -1962,7 +1962,7 @@
     {
     	"id": 29,
     	"name": "Grue",
-    	"description": "",
+    	"description": "Dessinée par les LH pour représenter la construction du bâtiment, elle fut réadaptée par les ITI qui y ajoutèrent une boule de destruction. ",
     	"links": {},
     	"path": {
     		"0": [
@@ -2080,6 +2080,38 @@
     		"0": [
     			69,
     			189
+    		]
+    	}
+    },
+    {
+    	"id": 30,
+    	"name": "Logo des CFI",
+    	"description": "Dans le style du tableau périodique des éléments, fut maintes fois transformées en \"LFI\" par les autres départements",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				100,
+    				110
+    			],
+    			[
+    				100,
+    				129
+    			],
+    			[
+    				160,
+    				129
+    			],
+    			[
+    				160,
+    				110
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			130,
+    			120
     		]
     	}
     }
