@@ -1134,5 +1134,49 @@
     			25
     		]
     	}
+    },
+    {
+    	"id": 21,
+    	"name": "Glutamate Monosodique",
+    	"description": "Site furry (vous ne voulez pas savoir)",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				32,
+    				31
+    			],
+    			[
+    				29,
+    				36
+    			],
+    			[
+    				32,
+    				41
+    			],
+    			[
+    				38,
+    				41
+    			],
+    			[
+    				41,
+    				36
+    			],
+    			[
+    				42,
+    				32
+    			],
+    			[
+    				37,
+    				28
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			35,
+    			36
+    		]
+    	}
     }
 ]
