@@ -5662,5 +5662,37 @@
     			120
     		]
     	}
+    },
+    {
+    	"id": 71,
+    	"name": "Fuck Somon",
+    	"description": "\"Fuck Somon\" est le nom d'une famille à l'INSA. Il a été censuré par Simon l'admin et reconstruit avec des étoiles.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				3,
+    				195
+    			],
+    			[
+    				24,
+    				195
+    			],
+    			[
+    				24,
+    				205
+    			],
+    			[
+    				3,
+    				205
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			14,
+    			200
+    		]
+    	}
     }
 ]
