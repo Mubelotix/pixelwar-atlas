@@ -518,5 +518,81 @@
     			70
     		]
     	}
+    },
+    {
+    	"id": 11,
+    	"name": "🗿",
+    	"description": "Un moai, l'une des célèbres statues géantes en pierre représentant des personnages humains sur l'île de Pâques. Représenté comme une sculpture en pierre grise d'une tête humaine stylisée avec un sourcil et un nez proéminents, le plus souvent tournée vers la gauche.\n\nParfois utilisé à diverses fins idiosyncratiques, comme pour transmettre une expression stoïque, impassible ou idiote. Par exemple, cet émoji est souvent utilisé pour représenter divers mèmes « sigma » ou « chad » en raison de ses traits émotionnels ciselés.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				38,
+    				76
+    			],
+    			[
+    				34,
+    				79
+    			],
+    			[
+    				34,
+    				81
+    			],
+    			[
+    				35,
+    				81
+    			],
+    			[
+    				35,
+    				92
+    			],
+    			[
+    				34,
+    				92
+    			],
+    			[
+    				34,
+    				93
+    			],
+    			[
+    				35,
+    				93
+    			],
+    			[
+    				36,
+    				94
+    			],
+    			[
+    				40,
+    				94
+    			],
+    			[
+    				41,
+    				93
+    			],
+    			[
+    				45,
+    				93
+    			],
+    			[
+    				47,
+    				88
+    			],
+    			[
+    				47,
+    				79
+    			],
+    			[
+    				44,
+    				76
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			41,
+    			82
+    		]
+    	}
     }
 ]
