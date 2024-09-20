@@ -2989,7 +2989,7 @@
     },
     {
     	"id": 39,
-    	"name": "Bluetooth logo",
+    	"name": "Logo Bluetooth",
     	"description": "Le Bluetooth est une technologie de communication sans fil qui permet l'échange de données sur de courtes distances entre divers appareils électroniques. Développée dans les années 1990, elle est largement utilisée pour connecter des périphériques tels que des écouteurs, des claviers, des souris, des smartphones, des tablettes et d'autres appareils intelligents.",
     	"links": {},
     	"path": {
@@ -3032,6 +3032,102 @@
     		"0": [
     			72,
     			119
+    		]
+    	}
+    },
+    {
+    	"id": 40,
+    	"name": "Minion",
+    	"description": "Les Minions sont des personnages comiques et attachants de la franchise de films d'animation Moi, moche et méchant (Despicable Me), produite par Illumination Entertainment. Ils sont représentés comme de petites créatures jaunes, souvent vêtues de salopettes et portant des lunettes. Leur apparence est enfantine et ludique, ce qui les rend particulièrement populaires.\n\nLes Minions sont des serviteurs fidèles de Gru, le protagoniste de la série, et leur but principal est de l'aider dans ses plans, souvent loufoques et humoristiques. Ils parlent une langue inventée, mélange de différentes langues et de sons amusants, ce qui les rend encore plus drôles et attachants.\n\nLeur comportement est souvent exagéré et chaotique, ce qui entraîne des situations comiques. Ils ont également leur propre film, Les Minions, qui explore leur origine et leur quête pour trouver un maître. Leur popularité a fait d'eux des icônes de la culture populaire, appréciés tant par les enfants que par les adultes.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				106,
+    				174
+    			],
+    			[
+    				104,
+    				176
+    			],
+    			[
+    				104,
+    				188
+    			],
+    			[
+    				103,
+    				188
+    			],
+    			[
+    				104,
+    				189
+    			],
+    			[
+    				106,
+    				189
+    			],
+    			[
+    				106,
+    				190
+    			],
+    			[
+    				105,
+    				191
+    			],
+    			[
+    				107,
+    				191
+    			],
+    			[
+    				107,
+    				189
+    			],
+    			[
+    				109,
+    				189
+    			],
+    			[
+    				109,
+    				191
+    			],
+    			[
+    				111,
+    				191
+    			],
+    			[
+    				110,
+    				190
+    			],
+    			[
+    				110,
+    				189
+    			],
+    			[
+    				112,
+    				189
+    			],
+    			[
+    				113,
+    				188
+    			],
+    			[
+    				112,
+    				188
+    			],
+    			[
+    				112,
+    				176
+    			],
+    			[
+    				110,
+    				174
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			108,
+    			182
     		]
     	}
     }
