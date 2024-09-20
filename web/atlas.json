@@ -658,5 +658,101 @@
     			91
     		]
     	}
+    },
+    {
+    	"id": 13,
+    	"name": "Raspberry Pi logo",
+    	"description": "Le Raspberry Pi est un nano-ordinateur monocarte à processeur ARM de la taille d'une carte de crédit conçu par des professeurs du département informatique de l'université de Cambridge dans le cadre de la fondation Raspberry Pi3.\n\nLe Raspberry Pi fut créé afin de démocratiser l'accès aux ordinateurs et au digital making4 (terme anglophone désignant à la fois la capacité de résolution de problèmes et les compétences techniques et informatiques)5. Cette démocratisation est possible en raison du coût réduit du Raspberry Pi, mais aussi grâce aux logiciels libres4. Le Raspberry Pi permet l'exécution de plusieurs variantes du système d'exploitation libre GNU/Linux, notamment Debian ou Ubuntu, ainsi que des logiciels compatibles6. Il fonctionne également avec le système d'exploitation Microsoft Windows : Windows 10 IoT Core7, Windows 10 on ARM (pour l'instant[Quand ?] relativement instable), celui de Google Android Pi8 et même une version de l'OS/MVT d'IBM accompagnée du système APL\\3602.",
+    	"links": {
+    		"website": [
+    			"https://www.raspberrypi.com/"
+    		]
+    	},
+    	"path": {
+    		"0": [
+    			[
+    				48,
+    				90
+    			],
+    			[
+    				48,
+    				94
+    			],
+    			[
+    				50,
+    				96
+    			],
+    			[
+    				48,
+    				102
+    			],
+    			[
+    				48,
+    				106
+    			],
+    			[
+    				50,
+    				111
+    			],
+    			[
+    				56,
+    				115
+    			],
+    			[
+    				62,
+    				115
+    			],
+    			[
+    				67,
+    				112
+    			],
+    			[
+    				70,
+    				107
+    			],
+    			[
+    				70,
+    				102
+    			],
+    			[
+    				68,
+    				96
+    			],
+    			[
+    				70,
+    				94
+    			],
+    			[
+    				70,
+    				90
+    			],
+    			[
+    				67,
+    				88
+    			],
+    			[
+    				61,
+    				88
+    			],
+    			[
+    				59,
+    				90
+    			],
+    			[
+    				57,
+    				88
+    			],
+    			[
+    				51,
+    				88
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			59,
+    			103
+    		]
+    	}
     }
 ]
