@@ -2222,5 +2222,125 @@
     			103
     		]
     	}
+    },
+    {
+    	"id": 32,
+    	"name": "Jiji",
+    	"description": "Jiji est un personnage adorable et important dans le film Kiki la petite sorcière (Kiki’s Delivery Service), réalisé par Hayao Miyazaki et produit par le studio Ghibli. Jiji est un petit chat noir avec de grands yeux ronds et expressifs, compagnon et confident de Kiki, une jeune sorcière qui quitte sa maison pour s'installer dans une nouvelle ville et commencer sa vie d'adulte.\n\nDans l'univers du film, Jiji joue le rôle du familiar, c'est-à-dire l'animal compagnon des sorcières. Il a une personnalité sarcastique, prudente et parfois un peu cynique, contrastant avec la nature optimiste et déterminée de Kiki. Jiji parle et conseille souvent Kiki dans ses décisions, ajoutant une touche humoristique à leurs conversations.\n\nJiji incarne également un symbole de l’évolution de Kiki : au début, il est sa principale source de réconfort dans un monde nouveau et inconnu, mais au fur et à mesure que Kiki grandit et gagne en indépendance, leur relation évolue. Le lien spécial entre Kiki et Jiji souligne des thèmes d’amitié, de maturité et d'autonomie.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				144,
+    				81
+    			],
+    			[
+    				142,
+    				86
+    			],
+    			[
+    				142,
+    				92
+    			],
+    			[
+    				144,
+    				94
+    			],
+    			[
+    				144,
+    				95
+    			],
+    			[
+    				143,
+    				96
+    			],
+    			[
+    				143,
+    				100
+    			],
+    			[
+    				147,
+    				103
+    			],
+    			[
+    				149,
+    				103
+    			],
+    			[
+    				147,
+    				107
+    			],
+    			[
+    				147,
+    				110
+    			],
+    			[
+    				155,
+    				110
+    			],
+    			[
+    				155,
+    				107
+    			],
+    			[
+    				153,
+    				103
+    			],
+    			[
+    				155,
+    				103
+    			],
+    			[
+    				158,
+    				101
+    			],
+    			[
+    				159,
+    				96
+    			],
+    			[
+    				158,
+    				95
+    			],
+    			[
+    				160,
+    				92
+    			],
+    			[
+    				160,
+    				86
+    			],
+    			[
+    				158,
+    				80
+    			],
+    			[
+    				155,
+    				88
+    			],
+    			[
+    				153,
+    				89
+    			],
+    			[
+    				153,
+    				92
+    			],
+    			[
+    				149,
+    				92
+    			],
+    			[
+    				149,
+    				90
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			151,
+    			98
+    		]
+    	}
     }
 ]
