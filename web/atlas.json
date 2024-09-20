@@ -52,7 +52,7 @@
     	}
     },
     {
-    	"id": -1,
+    	"id": 2,
     	"name": "Canard en plastique",
     	"description": "La méthode du canard en plastique, appelée également méthode du canard en caoutchouc, est une pratique de revue du code source utilisée en génie logiciel dans les phases de débogage.",
     	"links": {
@@ -132,6 +132,38 @@
     		"0": [
     			33,
     			12
+    		]
+    	}
+    },
+    {
+    	"id": 2,
+    	"name": "Rm rf LGBT",
+    	"description": "Cette command supprime tous les fichiers de la machine. C'est un troll courant sur Internet de dire aux nouveaux de l'exécuter. ",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				52,
+    				0
+    			],
+    			[
+    				52,
+    				6
+    			],
+    			[
+    				90,
+    				6
+    			],
+    			[
+    				90,
+    				0
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			71,
+    			3
     		]
     	}
     }
