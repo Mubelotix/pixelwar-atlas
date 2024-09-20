@@ -2552,7 +2552,7 @@
     	}
     },
     {
-    	"id": 34,
+    	"id": 35,
     	"name": "Totoro",
     	"description": "Totoro est un personnage emblématique du film d'animation Mon voisin Totoro (My Neighbor Totoro), réalisé par Hayao Miyazaki et produit par le studio Ghibli. Totoro est un esprit de la forêt, souvent décrit comme un gros animal poilu, aux grandes oreilles et au sourire chaleureux. Il est reconnaissable à son ventre gris clair et à son visage sympathique.\n\nDans le film, Totoro devient l'ami de deux jeunes sœurs, Satsuki et Mei, qui emménagent dans une maison à la campagne avec leur père. Alors qu'elles s'adaptent à leur nouvel environnement, elles découvrent Totoro, qui les aide à naviguer à travers leurs peurs et leurs aventures. Totoro est associé à la nature, à la magie et à la protection, symbolisant la beauté et la sérénité de la vie rurale.\n\nLe personnage est également célèbre pour ses scènes mémorables, comme celle où il fait pousser des plantes ou celle où il prend le bus avec le chat-bus, un autre esprit magique du film. Totoro est devenu un symbole de l'animation japonaise et un icône culturelle, représentant l'innocence de l'enfance et l'harmonie avec la nature.",
     	"links": {},
@@ -2660,6 +2660,54 @@
     		"0": [
     			138,
     			148
+    		]
+    	}
+    },
+    {
+    	"id": 36,
+    	"name": "Noiraude",
+    	"description": "Les Noiraudes (ou Soot Sprites en anglais) sont de petits personnages du film Mon voisin Totoro (My Neighbor Totoro) de Hayao Miyazaki. Ce sont de petites créatures noires en forme de boule, avec des yeux blancs et des expressions faciales mignonnes. Elles vivent dans des endroits sombres, comme des greniers ou des coins de maison, et sont souvent associées à la poussière.\n\nDans le film, les Noiraudes sont des esprits de la poussière qui apparaissent lorsque Satsuki et Mei explorent leur nouvelle maison. Elles sont amusantes et espiègles, mais elles peuvent également symboliser les préoccupations et les peurs de l'enfance. Les Noiraudes sont attachantes et ajoutent une touche de magie et de mystère à l'univers de Totoro.\n\nElles rappellent que même dans les endroits les plus sombres, il peut y avoir de la magie et de la beauté, et elles soulignent le lien entre les enfants et le monde fantastique qui les entoure.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				105,
+    				159
+    			],
+    			[
+    				102,
+    				164
+    			],
+    			[
+    				102,
+    				168
+    			],
+    			[
+    				106,
+    				173
+    			],
+    			[
+    				115,
+    				173
+    			],
+    			[
+    				119,
+    				168
+    			],
+    			[
+    				119,
+    				164
+    			],
+    			[
+    				115,
+    				159
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			111,
+    			166
     		]
     	}
     }
