@@ -2898,5 +2898,93 @@
     			232
     		]
     	}
+    },
+    {
+    	"id": 38,
+    	"name": "Yokai",
+    	"description": "Dans le contexte de Mon voisin Totoro (My Neighbor Totoro), les yokai ne sont pas explicitement nommés, mais le film s'inspire de la riche mythologie japonaise qui comprend ces esprits et créatures surnaturelles. Les yokai sont des entités souvent associées à la nature, aux objets inanimés ou à des phénomènes étranges, et ils peuvent être bienveillants ou malicieux.\n\nDans le film, Totoro et d'autres créatures, comme les Noiraudes (Soot Sprites), peuvent être considérés comme des manifestations de ce type de folklore. Totoro lui-même est une sorte de yokai de la forêt, représentant la magie et la protection de la nature. Les yokai symbolisent souvent les liens entre les humains et leur environnement, et dans Mon voisin Totoro, cette connexion est explorée à travers les aventures de Satsuki et Mei avec les esprits de la forêt.\n\nLes yokai, en général, ajoutent une dimension de mystère et de beauté au monde naturel, encourageant une appréciation de la nature et des forces invisibles qui l'habitent. Dans le film, cette thématique est très présente, soulignant la magie qui existe dans la vie quotidienne.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				165,
+    				163
+    			],
+    			[
+    				162,
+    				166
+    			],
+    			[
+    				162,
+    				171
+    			],
+    			[
+    				161,
+    				172
+    			],
+    			[
+    				161,
+    				175
+    			],
+    			[
+    				164,
+    				179
+    			],
+    			[
+    				173,
+    				179
+    			],
+    			[
+    				176,
+    				175
+    			],
+    			[
+    				176,
+    				172
+    			],
+    			[
+    				175,
+    				171
+    			],
+    			[
+    				175,
+    				166
+    			],
+    			[
+    				172,
+    				163
+    			],
+    			[
+    				170,
+    				165
+    			],
+    			[
+    				170,
+    				167
+    			],
+    			[
+    				169,
+    				168
+    			],
+    			[
+    				168,
+    				168
+    			],
+    			[
+    				167,
+    				167
+    			],
+    			[
+    				167,
+    				165
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			168,
+    			174
+    		]
+    	}
     }
 ]
