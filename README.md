@@ -8,9 +8,6 @@
 
 # The 2024 INSA Canvas Atlas
 
-https://sc07.dev/marius851000/fediverse-canvas-atlas-2024/-/compare/0aaa8ea6c8dac902a1be3f2de1f98fd1859c707b...main?from_project_id=16&straight=true
-https://sc07.dev/marius851000/fediverse-canvas-atlas-2024/-/commit/3a212f12523d11f79fe9376808a95fe5e7af2f1a
-
 We held an r/place-like event at INSA Rouen in 2024. This project is an interactive map aiming to chart all the artworks created during this event. It is made with information to each artwork of the canvas provided by the community.
 
 This is based on a project established by Roland Rytz for the event in 2017, and further developed and maintained by the [Place Atlas Initiative](https://place-atlas.stefanocoding.me) and [contributors](https://github.com/placeAtlas/atlas-2023/graphs/contributors).
