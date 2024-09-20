@@ -1074,5 +1074,33 @@
     			178
     		]
     	}
+    },
+    {
+    	"id": 19,
+    	"name": "Triforce",
+    	"description": "La Triforce est un symbole emblématique de la série de jeux vidéo The Legend of Zelda. Elle représente une puissance divine et joue un rôle central dans l’univers de la franchise. Elle se compose de trois triangles dorés formant un triangle plus grand, chaque triangle symbolisant un pouvoir spécifique :\n\nForce – Associée à la déesse Din, elle représente la force physique et le pouvoir. Dans les jeux, elle est souvent reliée à Ganondorf, le principal antagoniste, qui cherche à l’utiliser pour dominer le monde.\n\nSagesse – Associée à la déesse Nayru, elle incarne la sagesse et l’intelligence. La princesse Zelda, un personnage récurrent de la série, est généralement le porteur de cette partie de la Triforce.\n\nCourage – Associée à la déesse Farore, elle représente le courage et le cœur d’un véritable héros. Ce pouvoir est traditionnellement lié à Link, le héros principal de la série, qui part en quête pour sauver Hyrule.\n\nQuand les trois parties de la Triforce sont réunies, elles accordent des pouvoirs divins, permettant de réaliser presque n’importe quel souhait. Elle est un symbole d’équilibre entre ces trois vertus : force, sagesse et courage.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				20,
+    				144
+    			],
+    			[
+    				12,
+    				159
+    			],
+    			[
+    				28,
+    				159
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			20,
+    			154
+    		]
+    	}
     }
 ]
