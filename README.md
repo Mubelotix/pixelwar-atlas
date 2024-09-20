@@ -19,6 +19,13 @@ This project is licensed under the [GNU Affero General Public License v3.0](LICE
 
 You can check out the website by visiting [pixelwar.insa.lol](https://pixelwar.insa.lol/).
 
+## Exploring the data
+
+We provide full access to the data of the entire server (database, full logs and software).
+Feel free to explore the data as you wish, and tell us if you find anything interesting!
+
+[Download the data](https://github.com/Mubelotix/pixelwar-atlas/raw/refs/heads/master/web/insaplace_server_archive.tar.gz)
+
 ## Contributing
 
 This project is open source, and contributions are welcome. In fact, the Atlas relies on user contributions.
