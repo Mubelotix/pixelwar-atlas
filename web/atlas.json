@@ -1622,5 +1622,37 @@
     			75
     		]
     	}
+    },
+    {
+    	"id": 25,
+    	"name": "Dino Game",
+    	"description": "Le dinosaure de Chrome est une fonctionnalité cachée dans le navigateur web Google Chrome qui apparaît lorsque l'utilisateur perd sa connexion Internet. Au lieu d'afficher simplement un message d'erreur ennuyeux, Chrome propose un mini-jeu pour patienter en attendant le rétablissement de la connexion.\n\nLe jeu met en scène un petit dinosaure, un T-Rex, qui court dans un désert minimaliste en noir et blanc. L'objectif est simple : appuyer sur la barre d'espace pour faire sauter le dinosaure et éviter les obstacles comme les cactus et les ptérodactyles qui apparaissent au fur et à mesure que le jeu progresse. Plus le joueur avance, plus la vitesse du dinosaure augmente, rendant le jeu plus difficile.\n\nCe jeu, souvent appelé \"Dino Game\", est devenu très populaire pour son côté simple et addictif. Il est disponible en mode hors ligne, mais on peut aussi y jouer manuellement en tapant \"chrome://dino\" dans la barre de recherche, même avec une connexion Internet.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				115,
+    				46
+    			],
+    			[
+    				115,
+    				0
+    			],
+    			[
+    				183,
+    				0
+    			],
+    			[
+    				183,
+    				46
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			149,
+    			23
+    		]
+    	}
     }
 ]
