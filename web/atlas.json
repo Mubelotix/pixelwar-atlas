@@ -1002,5 +1002,77 @@
     			178
     		]
     	}
+    },
+    {
+    	"id": 18,
+    	"name": "Bob Razowski",
+    	"description": "Originellement dessiné par LH pour faire concurrence à Bob le bricoleur des MECA, il fut détruit et reconstruit par les ITI.\n\nBob Razowski (ou Mike Wazowski en version originale) est un personnage clé du film d'animation Monstres & Cie (Monsters, Inc.) produit par Pixar. C'est un petit monstre vert en forme de boule, avec un unique grand œil au centre de son visage et deux petites cornes sur la tête. Il est drôle, plein d'énergie et a une grande bouche expressive.\n\nDans l'univers de Monstres & Cie, les monstres comme Bob travaillent dans une usine qui récolte les cris des enfants pour générer de l'énergie. Bob est le meilleur ami de Sulli (James P. Sullivan), un monstre plus grand et plus poilu, et ensemble, ils vivent des aventures liées à leur travail.\n\nBob est connu pour son sens de l'humour et sa personnalité enthousiaste, malgré son apparence plutôt simple et parfois maladroite.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				46,
+    				171
+    			],
+    			[
+    				46,
+    				176
+    			],
+    			[
+    				44,
+    				179
+    			],
+    			[
+    				44,
+    				181
+    			],
+    			[
+    				48,
+    				182
+    			],
+    			[
+    				48,
+    				185
+    			],
+    			[
+    				53,
+    				185
+    			],
+    			[
+    				53,
+    				182
+    			],
+    			[
+    				57,
+    				181
+    			],
+    			[
+    				57,
+    				179
+    			],
+    			[
+    				55,
+    				176
+    			],
+    			[
+    				55,
+    				171
+    			],
+    			[
+    				53,
+    				172
+    			],
+    			[
+    				48,
+    				172
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			51,
+    			178
+    		]
+    	}
     }
 ]
