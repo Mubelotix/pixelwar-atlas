@@ -790,5 +790,121 @@
     			82
     		]
     	}
+    },
+    {
+    	"id": 15,
+    	"name": "Amogus à la tasse",
+    	"description": "Amogus est une version abâtardie du nom du jeu vidéo Among Us de 2018. En janvier 2021, le mot a gagné en popularité en tant que slogan utilisé dans les mèmes ironiques, souvent utilisé pour remplacer le dialogue dans les dessins animés, et comme moyen de shitposting en spammant la phrase à côté de sus. De plus, Amogus fait référence au dessin simplifié d'un membre d'équipage d'Among Us utilisé dans les mèmes. En mai 2021, le panneau Amogus a regagné en popularité en tant que format de référence à la culture pop et à l'histoire, le mot ayant été modifié en noms de trois syllabes se terminant par « us », comme « Columbus », et le panneau redessiné en conséquence.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				52,
+    				134
+    			],
+    			[
+    				52,
+    				137
+    			],
+    			[
+    				48,
+    				137
+    			],
+    			[
+    				48,
+    				149
+    			],
+    			[
+    				52,
+    				149
+    			],
+    			[
+    				52,
+    				152
+    			],
+    			[
+    				54,
+    				155
+    			],
+    			[
+    				58,
+    				155
+    			],
+    			[
+    				58,
+    				150
+    			],
+    			[
+    				61,
+    				150
+    			],
+    			[
+    				61,
+    				155
+    			],
+    			[
+    				65,
+    				155
+    			],
+    			[
+    				65,
+    				148
+    			],
+    			[
+    				66,
+    				148
+    			],
+    			[
+    				66,
+    				140
+    			],
+    			[
+    				67,
+    				140
+    			],
+    			[
+    				67,
+    				135
+    			],
+    			[
+    				61,
+    				129
+    			],
+    			[
+    				61,
+    				123
+    			],
+    			[
+    				55,
+    				123
+    			],
+    			[
+    				50,
+    				125
+    			],
+    			[
+    				50,
+    				127
+    			],
+    			[
+    				52,
+    				130
+    			],
+    			[
+    				54,
+    				130
+    			],
+    			[
+    				54,
+    				132
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			58,
+    			142
+    		]
+    	}
     }
 ]
