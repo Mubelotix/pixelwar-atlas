@@ -3506,5 +3506,125 @@
     			203
     		]
     	}
+    },
+    {
+    	"id": 45,
+    	"name": "Mario",
+    	"description": "Mario est l'un des personnages les plus emblématiques et reconnaissables de l'univers du jeu vidéo. Créé par Nintendo, il a été introduit pour la première fois en 1981 dans le jeu Donkey Kong, où il apparaissait sous le nom de \"Jumpman\". Mario est un plombier italien dont la personnalité joyeuse et déterminée en a fait un héros incontournable.\n\nMario est surtout connu pour ses aventures dans la série de jeux Super Mario, qui mettent en scène sa quête pour sauver la princesse Peach du méchant Bowser. Les jeux de la franchise sont souvent des plateformes en 2D ou 3D où Mario doit sauter, collecter des pièces, et vaincre des ennemis tout en naviguant à travers divers niveaux colorés et créatifs.\n\nOutre son rôle principal dans les jeux de plateforme, Mario a également participé à d'autres genres de jeux, y compris des courses (Mario Kart), des jeux de sport, et des RPG. Sa popularité a fait de lui une icône de la culture vidéoludique et il est souvent considéré comme le visage de Nintendo. La franchise a également donné naissance à des séries dérivées, des films, des séries télévisées, et de nombreux produits dérivés.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				238,
+    				179
+    			],
+    			[
+    				236,
+    				185
+    			],
+    			[
+    				238,
+    				185
+    			],
+    			[
+    				238,
+    				187
+    			],
+    			[
+    				234,
+    				187
+    			],
+    			[
+    				234,
+    				188
+    			],
+    			[
+    				235,
+    				189
+    			],
+    			[
+    				236,
+    				188
+    			],
+    			[
+    				237,
+    				188
+    			],
+    			[
+    				239,
+    				190
+    			],
+    			[
+    				236,
+    				192
+    			],
+    			[
+    				236,
+    				193
+    			],
+    			[
+    				237,
+    				193
+    			],
+    			[
+    				238,
+    				192
+    			],
+    			[
+    				244,
+    				192
+    			],
+    			[
+    				245,
+    				191
+    			],
+    			[
+    				249,
+    				191
+    			],
+    			[
+    				249,
+    				187
+    			],
+    			[
+    				247,
+    				189
+    			],
+    			[
+    				244,
+    				189
+    			],
+    			[
+    				247,
+    				183
+    			],
+    			[
+    				247,
+    				179
+    			],
+    			[
+    				246,
+    				179
+    			],
+    			[
+    				244,
+    				181
+    			],
+    			[
+    				243,
+    				181
+    			],
+    			[
+    				243,
+    				179
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			242,
+    			185
+    		]
+    	}
     }
 ]
