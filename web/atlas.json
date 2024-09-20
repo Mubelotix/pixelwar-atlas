@@ -5486,5 +5486,181 @@
     			151
     		]
     	}
+    },
+    {
+    	"id": 69,
+    	"name": "Plante",
+    	"description": "Originellement dessinée par les MRIE",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				166,
+    				104
+    			],
+    			[
+    				173,
+    				106
+    			],
+    			[
+    				178,
+    				111
+    			],
+    			[
+    				178,
+    				112
+    			],
+    			[
+    				180,
+    				114
+    			],
+    			[
+    				181,
+    				113
+    			],
+    			[
+    				181,
+    				115
+    			],
+    			[
+    				179,
+    				117
+    			],
+    			[
+    				179,
+    				125
+    			],
+    			[
+    				186,
+    				125
+    			],
+    			[
+    				189,
+    				128
+    			],
+    			[
+    				189,
+    				131
+    			],
+    			[
+    				179,
+    				131
+    			],
+    			[
+    				178,
+    				132
+    			],
+    			[
+    				173,
+    				132
+    			],
+    			[
+    				172,
+    				131
+    			],
+    			[
+    				166,
+    				131
+    			],
+    			[
+    				165,
+    				130
+    			],
+    			[
+    				165,
+    				128
+    			],
+    			[
+    				167,
+    				126
+    			],
+    			[
+    				168,
+    				126
+    			],
+    			[
+    				170,
+    				124
+    			],
+    			[
+    				177,
+    				124
+    			],
+    			[
+    				177,
+    				113
+    			],
+    			[
+    				175,
+    				110
+    			],
+    			[
+    				173,
+    				112
+    			],
+    			[
+    				168,
+    				112
+    			],
+    			[
+    				164,
+    				110
+    			],
+    			[
+    				161,
+    				108
+    			],
+    			[
+    				161,
+    				107
+    			],
+    			[
+    				163,
+    				105
+    			],
+    			[
+    				165,
+    				105
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			176,
+    			128
+    		]
+    	}
+    },
+    {
+    	"id": 70,
+    	"name": "Arrietty",
+    	"description": "Arrietty est le personnage principal du film d'animation Arrietty, le petit monde des chapardeurs (The Secret World of Arrietty), réalisé par Hiromasa Yonebayashi et produit par le studio Ghibli. Le film est inspiré du roman The Borrowers de Mary Norton.\n\nArrietty est une jeune fille appartenant à une race de petits êtres appelés les \"chapardeurs\". Ces créatures mesurent seulement quelques centimètres de haut et vivent secrètement dans les maisons des humains, en prenant discrètement de petits objets (comme des morceaux de sucre ou des épingles) dont ils ont besoin pour survivre. Ils ne volent jamais plus que ce dont ils ont besoin et sont extrêmement prudents pour ne pas se faire remarquer par les humains, qu'ils considèrent comme une menace.\n\nDans le film, Arrietty vit avec ses parents sous le plancher d'une maison humaine, dans un environnement minutieusement adapté à leur petite taille. Curieuse et intrépide, elle finit par rencontrer Sho, un jeune garçon humain malade qui séjourne dans la maison de sa tante. Malgré la règle des chapardeurs de ne jamais se laisser voir par les humains, une amitié secrète et sincère se développe entre Arrietty et Sho.\n\nLe film explore des thèmes comme la découverte de soi, la différence entre les mondes, et la beauté des petites choses. Arrietty est un personnage courageux, aventurier et plein de vie, qui, malgré sa petite taille, montre une grande force intérieure. L’histoire de Arrietty met également en avant la fragilité de la nature et le respect des autres formes de vie, caractéristiques des productions du studio Ghibli.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				171,
+    				117
+    			],
+    			[
+    				175,
+    				117
+    			],
+    			[
+    				175,
+    				123
+    			],
+    			[
+    				171,
+    				123
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			173,
+    			120
+    		]
+    	}
     }
 ]
