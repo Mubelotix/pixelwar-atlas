@@ -970,5 +970,37 @@
     			147
     		]
     	}
+    },
+    {
+    	"id": 17,
+    	"name": "Steve auprès d'un portail",
+    	"description": "Steve est le personnage principal de Minecraft, un jeu vidéo populaire de type \"bac à sable\" où les joueurs peuvent explorer, construire et survivre dans un monde fait de blocs. Steve est souvent représenté comme un personnage humain à l'apparence simple, avec une chemise bleue et un pantalon bleu foncé.\n\nLe portail du Nether est une structure que les joueurs construisent dans Minecraft pour accéder à une dimension parallèle sombre et dangereuse appelée le Nether. Cette dimension est remplie de créatures hostiles, de lacs de lave et de ressources rares. Le portail lui-même est un cadre rectangulaire fait de blocs d'obsidienne, et il s'active avec du feu (généralement à l'aide d'un briquet), créant une sorte de surface violette brillante à travers laquelle Steve peut passer pour voyager dans le Nether.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				1,
+    				171
+    			],
+    			[
+    				1,
+    				184
+    			],
+    			[
+    				22,
+    				184
+    			],
+    			[
+    				22,
+    				171
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			12,
+    			178
+    		]
+    	}
     }
 ]
