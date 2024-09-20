@@ -2114,5 +2114,113 @@
     			120
     		]
     	}
+    },
+    {
+    	"id": 31,
+    	"name": "Calcifer",
+    	"description": "Calcifer est un personnage important dans le film d'animation Le Château ambulant (Howl's Moving Castle), réalisé par Hayao Miyazaki et produit par le studio Ghibli, ainsi que dans le livre du même nom écrit par Diana Wynne Jones. Il s’agit d’un démon du feu, un esprit magique en forme de petite flamme vivante aux yeux expressifs et à la personnalité malicieuse.\n\nDans l’histoire, Calcifer est lié par un pacte magique au sorcier Howl et joue un rôle essentiel dans le fonctionnement du château ambulant. Il est littéralement le cœur du château : c’est grâce à son feu que la structure peut se déplacer. Bien que Calcifer soit puissant et mystérieux, il a une nature un peu espiègle et parfois sarcastique. Il est souvent drôle, mais aussi un peu grincheux, surtout lorsqu’il se sent exploité.\n\nLe personnage de Calcifer est central dans l’intrigue, car libérer ce démon du pacte qui le lie à Howl est l’une des clés pour dénouer l’histoire et sauver les personnages. Malgré son attitude parfois revêche, il se montre attaché à ses compagnons et joue un rôle crucial dans leur quête.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				118,
+    				94
+    			],
+    			[
+    				116,
+    				96
+    			],
+    			[
+    				116,
+    				101
+    			],
+    			[
+    				115,
+    				102
+    			],
+    			[
+    				115,
+    				104
+    			],
+    			[
+    				118,
+    				107
+    			],
+    			[
+    				118,
+    				108
+    			],
+    			[
+    				120,
+    				110
+    			],
+    			[
+    				130,
+    				110
+    			],
+    			[
+    				131,
+    				109
+    			],
+    			[
+    				132,
+    				109
+    			],
+    			[
+    				133,
+    				108
+    			],
+    			[
+    				133,
+    				105
+    			],
+    			[
+    				134,
+    				104
+    			],
+    			[
+    				134,
+    				99
+    			],
+    			[
+    				133,
+    				99
+    			],
+    			[
+    				133,
+    				96
+    			],
+    			[
+    				130,
+    				93
+    			],
+    			[
+    				127,
+    				96
+    			],
+    			[
+    				124,
+    				93
+    			],
+    			[
+    				123,
+    				90
+    			],
+    			[
+    				120,
+    				97
+    			],
+    			[
+    				119,
+    				96
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			125,
+    			103
+    		]
+    	}
     }
 ]
