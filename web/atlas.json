@@ -2374,5 +2374,37 @@
     			166
     		]
     	}
+    },
+    {
+    	"id": 34,
+    	"name": "Somme des i²",
+    	"description": "Dernier dessin restant des GM, il fut épargné par les autres départements après de nombreuses supplications",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				235,
+    				134
+    			],
+    			[
+    				235,
+    				146
+    			],
+    			[
+    				249,
+    				146
+    			],
+    			[
+    				249,
+    				134
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			242,
+    			140
+    		]
+    	}
     }
 ]
