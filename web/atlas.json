@@ -318,5 +318,53 @@
     			41
     		]
     	}
+    },
+    {
+    	"id": 7,
+    	"name": "Enseigner c'est mentir",
+    	"description": "Phrase utilisée couramment par le professeur ITI Nicolas Delestre pour justifier le manque de clarté de ses explications",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				2,
+    				45
+    			],
+    			[
+    				59,
+    				45
+    			],
+    			[
+    				59,
+    				49
+    			],
+    			[
+    				39,
+    				49
+    			],
+    			[
+    				39,
+    				55
+    			],
+    			[
+    				8,
+    				55
+    			],
+    			[
+    				8,
+    				49
+    			],
+    			[
+    				2,
+    				49
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			27,
+    			50
+    		]
+    	}
     }
 ]
