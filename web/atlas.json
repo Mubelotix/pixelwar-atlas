@@ -1102,5 +1102,37 @@
     			154
     		]
     	}
+    },
+    {
+    	"id": 20,
+    	"name": "Escargot",
+    	"description": "Détruit par les MRIE, il faut reconstruit par les ITI",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				89,
+    				20
+    			],
+    			[
+    				72,
+    				20
+    			],
+    			[
+    				72,
+    				29
+    			],
+    			[
+    				89,
+    				29
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			81,
+    			25
+    		]
+    	}
     }
 ]
