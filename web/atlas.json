@@ -5962,5 +5962,37 @@
     			128
     		]
     	}
+    },
+    {
+    	"id": 76,
+    	"name": "Vestige d'une côte",
+    	"description": "Détruite lors de la guerre d'annihilation entre les EP et les MECA",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				207,
+    				117
+    			],
+    			[
+    				207,
+    				121
+    			],
+    			[
+    				213,
+    				121
+    			],
+    			[
+    				213,
+    				117
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			210,
+    			119
+    		]
+    	}
     }
 ]
