@@ -4470,5 +4470,37 @@
     			186
     		]
     	}
+    },
+    {
+    	"id": 57,
+    	"name": "Premier bâtiment des LH",
+    	"description": "A pris le feu de nombreuses fois",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				32,
+    				201
+    			],
+    			[
+    				32,
+    				249
+    			],
+    			[
+    				56,
+    				249
+    			],
+    			[
+    				56,
+    				201
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			44,
+    			225
+    		]
+    	}
     }
 ]
