@@ -2986,5 +2986,53 @@
     			174
     		]
     	}
+    },
+    {
+    	"id": 39,
+    	"name": "Bluetooth logo",
+    	"description": "Le Bluetooth est une technologie de communication sans fil qui permet l'échange de données sur de courtes distances entre divers appareils électroniques. Développée dans les années 1990, elle est largement utilisée pour connecter des périphériques tels que des écouteurs, des claviers, des souris, des smartphones, des tablettes et d'autres appareils intelligents.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				70,
+    				114
+    			],
+    			[
+    				68,
+    				116
+    			],
+    			[
+    				68,
+    				122
+    			],
+    			[
+    				70,
+    				124
+    			],
+    			[
+    				73,
+    				124
+    			],
+    			[
+    				75,
+    				122
+    			],
+    			[
+    				75,
+    				116
+    			],
+    			[
+    				73,
+    				114
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			72,
+    			119
+    		]
+    	}
     }
 ]
