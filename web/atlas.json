@@ -4650,5 +4650,53 @@
     			158
     		]
     	}
+    },
+    {
+    	"id": 61,
+    	"name": "Sans visage",
+    	"description": "Le Sans-Visage (ou Kaonashi en japonais) est un personnage marquant du film Le Voyage de Chihiro (Spirited Away), réalisé par Hayao Miyazaki et produit par le studio Ghibli. C'est une créature mystérieuse et solitaire, qui porte un masque blanc sans expression et qui est principalement silencieuse. Son corps est noir et informe, presque fantomatique.\n\nLe Sans-Visage est une entité ambiguë. Il semble au début être inoffensif et même vulnérable, mais lorsqu'il se retrouve influencé par les désirs matérialistes de l'établissement où travaille Chihiro, il commence à montrer un côté plus sombre. En consommant de la nourriture et des objets, il devient de plus en plus avide, développant un appétit insatiable, et peut également avaler d'autres personnages, intégrant leurs voix et leurs comportements.\n\nCependant, Chihiro (l'héroïne du film) reste gentille avec lui, ne cherchant ni à l'exploiter ni à le repousser, et finit par calmer sa frénésie en l'emmenant loin des influences néfastes de l'établissement. Le Sans-Visage est souvent interprété comme une métaphore des désirs humains, de la solitude et de la quête de sens dans un monde consumé par la matérialité. Grâce à la pureté et la compassion de Chihiro, il retrouve une forme de paix et de sérénité.\n\nLe personnage du Sans-Visage, avec son apparence énigmatique et ses actions symboliques, est l'une des figures les plus fascinantes et iconiques de Le Voyage de Chihiro, représentant à la fois la menace et la possibilité de rédemption dans un monde complexe.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				194,
+    				127
+    			],
+    			[
+    				192,
+    				129
+    			],
+    			[
+    				191,
+    				131
+    			],
+    			[
+    				189,
+    				142
+    			],
+    			[
+    				204,
+    				142
+    			],
+    			[
+    				202,
+    				131
+    			],
+    			[
+    				201,
+    				129
+    			],
+    			[
+    				199,
+    				127
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			197,
+    			135
+    		]
+    	}
     }
 ]
