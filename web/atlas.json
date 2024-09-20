@@ -1906,5 +1906,57 @@
     			6
     		]
     	}
+    },
+    {
+    	"id": 28,
+    	"name": "T des ITI",
+    	"description": "Première structure du canvas, elle fut souvent critiquée pour son esthétique défavorable, mais se révéla une frontière très utile entre les CFI et les ITI",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				46,
+    				30
+    			],
+    			[
+    				46,
+    				41
+    			],
+    			[
+    				78,
+    				41
+    			],
+    			[
+    				78,
+    				175
+    			],
+    			[
+    				82,
+    				162
+    			],
+    			[
+    				86,
+    				175
+    			],
+    			[
+    				86,
+    				41
+    			],
+    			[
+    				118,
+    				41
+    			],
+    			[
+    				118,
+    				30
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			82,
+    			36
+    		]
+    	}
     }
 ]
