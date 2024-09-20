@@ -340,58 +340,6 @@ function initDraw() {
 			exportArea.value = "    " + miniJsonString
 		}
 
-		// Reddit
-
-		let redditPostJsonString = "    " + prettyJsonString.split("\n").join("\n    ")
-		let redditPostUrl = `https://www.reddit.com/r/${instanceSubreddit}/submit?selftext=true&title=`
-		if (exportObject.id === -1) redditPostUrl += `✨%20${encodeURIComponent(exportObject.name ?? entry.name)}`
-		else redditPostUrl += `✏%20${encodeURIComponent(exportObject.name ?? entry.name)}`
-		redditPostUrl += "&text="
-
-		if (encodeURIComponent(redditPostJsonString).length > 7579 - redditPostUrl.length) {
-			redditPostJsonString = "    " + miniJsonString
-		}
-
-		redditPostUrl += encodeURIComponent(redditPostJsonString)
-		if (encodeURIComponent(redditPostUrl).length > 7579) {
-			// redditPostButton.classList.add("disabled")
-			// redditPostButton.ariaDisabled = true
-			redditPostButton.dataset.bsToggle = "tooltip"
-			redditPostButton.dataset.bsTitle = "This may not work due to the length of the entry. If needed, please copy manually."
-			if (!redditPostTooltip) redditPostTooltip = new bootstrap.Tooltip(redditPostButton)
-		} else {
-			// redditPostButton.classList.remove("disabled")
-			// redditPostButton.ariaDisabled = false
-			redditPostButton.dataset.bsTitle = ""
-		}
-		redditPostButton.href = redditPostUrl
-
-		if (exportObject.id === -1) document.getElementById("redditFlair").textContent = "New Entry"
-		else document.getElementById("redditFlair").textContent = "Edit Entry"
-
-		// GitHub
-
-		let githubPostJsonString = prettyJsonString
-		let githubPostUrl = `${instanceRepo}/new/cleanup/data/patches?filename=gh-${[...Array(4)].map(() => Math.floor(Math.random() * 16).toString(16)).join('')}-${slugify(exportObject.name ?? entry.name)}.json&value=`
-
-		if (encodeURIComponent(githubPostJsonString).length > 8192 - githubPostUrl.length) {
-			githubPostJsonString = miniJsonString
-		}
-
-		githubPostUrl += encodeURIComponent(githubPostJsonString)
-		if (githubPostUrl.length > 8192) {
-			// githubPostButton.classList.add("disabled")
-			// githubPostButton.ariaDisabled = true
-			githubPostButton.dataset.bsToggle = "tooltip"
-			githubPostButton.dataset.bsTitle = "This may not work due to the length of the entry. If needed, please copy manually."
-			if (!githubPostTooltip) githubPostTooltip = new bootstrap.Tooltip(githubPostButton)
-		} else {
-			// githubPostButton.classList.remove("disabled")
-			// githubPostButton.ariaDisabled = false
-			githubPostButton.dataset.bsTitle = ""
-		}
-		githubPostButton.href = githubPostUrl
-
 		exportModal.show()
 	}
 
