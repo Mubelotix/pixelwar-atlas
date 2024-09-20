@@ -906,5 +906,69 @@
     			142
     		]
     	}
+    },
+    {
+    	"id": 16,
+    	"name": "Pokeball",
+    	"description": "Une Pokéball est un objet emblématique de l'univers Pokémon, un jeu vidéo, série animée et franchise mondiale. Elle ressemble à une petite sphère bicolore, généralement rouge sur le dessus et blanche sur le dessous, avec un bouton au centre. Son rôle principal est de capturer et stocker des Pokémon, des créatures fictives, pour ensuite les libérer lors des combats ou des moments d'aventure.",
+    	"links": {},
+    	"path": {
+    		"0": [
+    			[
+    				5,
+    				141
+    			],
+    			[
+    				2,
+    				142
+    			],
+    			[
+    				1,
+    				145
+    			],
+    			[
+    				1,
+    				148
+    			],
+    			[
+    				2,
+    				151
+    			],
+    			[
+    				5,
+    				152
+    			],
+    			[
+    				8,
+    				152
+    			],
+    			[
+    				11,
+    				151
+    			],
+    			[
+    				12,
+    				148
+    			],
+    			[
+    				12,
+    				145
+    			],
+    			[
+    				11,
+    				142
+    			],
+    			[
+    				8,
+    				141
+    			]
+    		]
+    	},
+    	"center": {
+    		"0": [
+    			7,
+    			147
+    		]
+    	}
     }
 ]
