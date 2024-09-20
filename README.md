@@ -21,6 +21,8 @@ You can check out the website by visiting [pixelwar.insa.lol](https://pixelwar.i
 We provide full access to the data of the entire server (database, full logs and software).
 Feel free to explore the data as you wish, and tell us if you find anything interesting!
 
+Note sure if this is necessary, but the database password was `p46GqtG375hwBJty87CNkT6dtmoBtSbx`.
+
 [Download the data](https://github.com/Mubelotix/pixelwar-atlas/raw/refs/heads/master/web/insaplace_server_archive.tar.gz)
 
 ## Contributing
