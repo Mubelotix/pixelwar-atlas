@@ -14,7 +14,7 @@ This is based on a project established by Roland Rytz for the event in 2017, and
 
 This project is licensed under the [GNU Affero General Public License v3.0](LICENSE).
 
-You can check out the website by visiting [pixelwar.insa.lol](https://pixelwar.insa.lol/).
+You can check out the website by visiting [pixelwar.dera.page](https://pixelwar.dera.page/).
 
 ## Exploring the data
 
